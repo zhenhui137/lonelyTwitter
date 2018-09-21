@@ -13,7 +13,7 @@ public abstract class Tweet {
         this.message = message;
     }
 
-    public void setDate(){
+    public void setDate(Date date){
         this.date = date;
     }
 
